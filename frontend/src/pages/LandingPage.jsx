@@ -105,7 +105,3 @@
                                     bg: landingPageStyles.featureCardOrange
                                 }
                             ]
-
-
-
-                        Crafted with <span className={landingPageStyles.footerHeart}>❤️</span> by{' '}
